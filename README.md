@@ -17,6 +17,7 @@ A results-driven engineer passionate about infrastructure automation, cloud arch
 ### Certifications
 
 *   **Oracle Cloud Infrastructure (OCI) Multicloud Architect Professional**
+*   **Oracle Cloud Infrastructure Architect Associate**
 *   **Oracle Cloud Infrastructure 2025 AI Foundations Associate**
 *   **Oracle Data Platform 2025 Foundations Associate**
 *   **Oracle Cloud Infrastructure Foundations Associate**
